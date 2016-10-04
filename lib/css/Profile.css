@@ -1,0 +1,172 @@
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 1000%;
+}
+
+#subheader {
+    font-size: 150%;
+}
+
+body {
+    background-color: #212121;
+}
+
+#sslink {
+    background-image: url(../../lib/img/SSScreen.png);
+    background-position: center;
+
+    background-size: 725px;
+    background-size: cover Auto;
+    background-repeat: no-repeat;
+    border: solid;
+    height:inherit;
+    width:60%;
+    max-width: 100%;
+    border-width: thin;
+    border-color: #FFFFFF;
+}
+
+.tube {}
+
+#bio {
+    height: 750px;
+    width: 60%;
+    max-width: 90%;
+    max-height: 300%;
+}
+
+.bio {
+    font-size: 20%;
+    font-family: "Lucida serif";
+    word-wrap: normal;
+    text-align: center;
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#csslink {
+    background-image: url(../../lib/img/CSSScreen.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 60%;
+    max-width: 90%;
+    max-height: 300%;
+    border: solid;
+    border-width: thin;
+    border-color: #FFFFFF;
+}
+
+#pwvlink {
+    background-image: url(../../lib/img/PWVScreen.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 60%;
+    max-width: 90%;
+    max-height: 300%;
+    border: solid;
+    border-width: thin;
+    border-color: #FFFFFF;
+}
+
+#gitButton {
+    background-image: url(../img/git.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: solid;
+    border-width: thin;
+    border-color: #FFFFFF;
+}
+
+
+/*Modified by me*/
+
+
+/*http://stackoverflow.com/questions/22196587/how-to-center-align-vertically-the-container-in-bootstrap*/
+
+#container1 {
+    text-align: center;
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#container2 {
+    width: 100%;
+    height: auto;
+    padding-top: 175px;
+}
+
+#me-img {
+    border-radius: 30px;
+}
+
+#me-a {
+    background-color: #448AFF;
+    /* Green */
+    border-radius: 30px;
+    color: #FFFFFF;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    cursor: pointer;
+    /*margin: 4px 2px;*/
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+/*http://www.w3schools.com/css/css3_buttons.asp*/
+
+.w3-btn-floating {
+    background-color: #448AFF;
+    /* Green */
+    border: none;
+    border-radius: 30px;
+    color: #FFFFFF;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+}
+
+.btn {
+    height:725px;
+}
+
+
+/*http://www.w3schools.com/css/css3_buttons.asp*/
+
+.button1:hover {
+    box-shadow: 0 0px 16px 0 #757575, 0 0px 16px 0 #212121;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+/*http://www.w3schools.com/css/css3_buttons.asp*/
+
+.button2:hover {
+    box-shadow: 0 0px 16px 0 #757575, 0 0px 16px 0 #212121;
+    vv
+}
