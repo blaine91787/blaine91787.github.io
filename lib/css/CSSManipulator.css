@@ -1,0 +1,174 @@
+
+.bio {
+  color: #FFFFFF;
+  border-width: thin;
+  padding-top: 200px;
+  border-color: #212121;
+  border-style: solid;
+  border-spacing: 30px 30px;
+}
+label {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 150%;
+  padding-top: 50px;
+}
+
+.border-red {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color:#D32F2F;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  text-decoration-color: red;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+
+.border-green {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color: #4CAF50;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+
+.border-blue {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color: #2196F3;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+.border-width {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color: #FFFFFF;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+.background-red {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color:#D32F2F;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  text-decoration-color: red;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+
+.background-green {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color: #4CAF50;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+
+.background-blue {
+  /* Green */
+  border: none;
+  border-radius: 4px;
+  color: #2196F3;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  cursor: normal;
+}
+
+
+  .fluid-container {
+      padding-top:75px;
+  }
+
+
+
+  .pwv-header {
+       text-align: center;
+       color: #FFFFFF;
+  }
+
+  h1 {
+      text-align: center;
+      color: #FFFFFF;
+      font-size: 350%;
+  }
+
+  h3 {
+    color: #FFFFFF;
+  }
+
+  #subheader {
+    font-size: 150%;
+  }
+
+  body {
+      background-color: #212121;
+  }
+
+  /*Modified by me*/
+  /*http://stackoverflow.com/questions/22196587/how-to-center-align-vertically-the-container-in-bootstrap*/
+  #maincontainer {
+      text-align: center;
+      padding-top: 125px;
+      padding-bottom: 50px;
+      display: flex;
+      align-items: center;
+  }
+
+  /*http://www.w3schools.com/css/css3_buttons.asp*/
+  .w3-btn-floating {
+    background-color: #448AFF;
+    /* Green */
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+  }
+
+  /*http://www.w3schools.com/css/css3_buttons.asp*/
+  .button1:hover {
+      box-shadow: 0 0px 16px 0 #757575, 0 0px 16px 0 #FFFFFF;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s;
+  }
+
+  /*http://www.w3schools.com/css/css3_buttons.asp*/
+  .button2:hover {
+      box-shadow: 0 8px 16px 0 #757575, 0 6px 20px 0 #212121;
+  }
